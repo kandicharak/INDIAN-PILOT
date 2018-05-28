@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 7a481e7fc5342794fa756c059789e1b8
+timeCreated: 1527416109
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: airclean02
+    100002: airtanks02
+    100004: ant02
+    100006: axle02
+    100008: b02
+    100010: body03
+    100012: body04
+    100014: bottom02
+    100016: bumper02
+    100018: Camera01
+    100020: Camera01.target
+    100022: chrome02
+    100024: cyl02
+    100026: dframe02
+    100028: door02
+    100030: //RootNode
+    100032: dummytruck
+    100034: dump02
+    100036: filter02
+    100038: flap02
+    100040: frame02
+    100042: frim02
+    100044: ftire02
+    100046: gate02
+    100048: glass02
+    100050: gtank02
+    100052: handles02
+    100054: hlgts02
+    100056: Light01
+    100058: Light02
+    100060: Light03
+    100062: marker02
+    100064: markers02
+    100066: mirmount02
+    100068: mirror03
+    100070: mirror04
+    100072: pipes02
+    100074: ram04
+    100076: ram05
+    100078: ram06
+    100080: rrims02
+    100082: rtires02
+    100084: sides02
+    100086: stacks02
+    100088: steps02
+    100090: trim02
+    400000: airclean02
+    400002: airtanks02
+    400004: ant02
+    400006: axle02
+    400008: b02
+    400010: body03
+    400012: body04
+    400014: bottom02
+    400016: bumper02
+    400018: Camera01
+    400020: Camera01.target
+    400022: chrome02
+    400024: cyl02
+    400026: dframe02
+    400028: door02
+    400030: //RootNode
+    400032: dummytruck
+    400034: dump02
+    400036: filter02
+    400038: flap02
+    400040: frame02
+    400042: frim02
+    400044: ftire02
+    400046: gate02
+    400048: glass02
+    400050: gtank02
+    400052: handles02
+    400054: hlgts02
+    400056: Light01
+    400058: Light02
+    400060: Light03
+    400062: marker02
+    400064: markers02
+    400066: mirmount02
+    400068: mirror03
+    400070: mirror04
+    400072: pipes02
+    400074: ram04
+    400076: ram05
+    400078: ram06
+    400080: rrims02
+    400082: rtires02
+    400084: sides02
+    400086: stacks02
+    400088: steps02
+    400090: trim02
+    2100000: VP METALIC BLUE
+    2100002: VP BLACK MATTE
+    2100004: VP BLUE GLASS
+    2100006: VP GREY MED MTT
+    2100008: WHITE MATTE
+    2100010: VP WHITE HALOGEN
+    2100012: AMBER
+    2100014: WHITE PLASTIC 2S
+    2100016: NEW CHROME
+    2100018: SKY GREY
+    2100020: BLACK MATTE2
+    2300000: airclean02
+    2300002: airtanks02
+    2300004: ant02
+    2300006: axle02
+    2300008: b02
+    2300010: body03
+    2300012: body04
+    2300014: bottom02
+    2300016: bumper02
+    2300018: chrome02
+    2300020: cyl02
+    2300022: dframe02
+    2300024: door02
+    2300026: dump02
+    2300028: filter02
+    2300030: flap02
+    2300032: frame02
+    2300034: frim02
+    2300036: ftire02
+    2300038: gate02
+    2300040: glass02
+    2300042: gtank02
+    2300044: handles02
+    2300046: hlgts02
+    2300048: marker02
+    2300050: markers02
+    2300052: mirmount02
+    2300054: mirror03
+    2300056: mirror04
+    2300058: pipes02
+    2300060: ram04
+    2300062: ram05
+    2300064: ram06
+    2300066: rrims02
+    2300068: rtires02
+    2300070: sides02
+    2300072: stacks02
+    2300074: steps02
+    2300076: trim02
+    3300000: airclean02
+    3300002: airtanks02
+    3300004: ant02
+    3300006: axle02
+    3300008: b02
+    3300010: body03
+    3300012: body04
+    3300014: bottom02
+    3300016: bumper02
+    3300018: chrome02
+    3300020: cyl02
+    3300022: dframe02
+    3300024: door02
+    3300026: dump02
+    3300028: filter02
+    3300030: flap02
+    3300032: frame02
+    3300034: frim02
+    3300036: ftire02
+    3300038: gate02
+    3300040: glass02
+    3300042: gtank02
+    3300044: handles02
+    3300046: hlgts02
+    3300048: marker02
+    3300050: markers02
+    3300052: mirmount02
+    3300054: mirror03
+    3300056: mirror04
+    3300058: pipes02
+    3300060: ram04
+    3300062: ram05
+    3300064: ram06
+    3300066: rrims02
+    3300068: rtires02
+    3300070: sides02
+    3300072: stacks02
+    3300074: steps02
+    3300076: trim02
+    4300000: dump02
+    4300002: dframe02
+    4300004: flap02
+    4300006: gate02
+    4300008: cyl02
+    4300010: ram04
+    4300012: ram05
+    4300014: ram06
+    4300016: sides02
+    4300018: rtires02
+    4300020: rrims02
+    4300022: ftire02
+    4300024: frim02
+    4300026: axle02
+    4300028: chrome02
+    4300030: body03
+    4300032: hlgts02
+    4300034: body04
+    4300036: glass02
+    4300038: door02
+    4300040: trim02
+    4300042: bottom02
+    4300044: frame02
+    4300046: bumper02
+    4300048: markers02
+    4300050: airclean02
+    4300052: filter02
+    4300054: handles02
+    4300056: pipes02
+    4300058: stacks02
+    4300060: airtanks02
+    4300062: gtank02
+    4300064: steps02
+    4300066: mirmount02
+    4300068: mirror03
+    4300070: marker02
+    4300072: mirror04
+    4300074: b02
+    4300076: ant02
+    6400000: airclean02
+    6400002: airtanks02
+    6400004: ant02
+    6400006: axle02
+    6400008: b02
+    6400010: body03
+    6400012: body04
+    6400014: bottom02
+    6400016: bumper02
+    6400018: chrome02
+    6400020: cyl02
+    6400022: dframe02
+    6400024: door02
+    6400026: dump02
+    6400028: filter02
+    6400030: flap02
+    6400032: frame02
+    6400034: frim02
+    6400036: ftire02
+    6400038: gate02
+    6400040: glass02
+    6400042: gtank02
+    6400044: handles02
+    6400046: hlgts02
+    6400048: marker02
+    6400050: markers02
+    6400052: mirmount02
+    6400054: mirror03
+    6400056: mirror04
+    6400058: pipes02
+    6400060: ram04
+    6400062: ram05
+    6400064: ram06
+    6400066: rrims02
+    6400068: rtires02
+    6400070: sides02
+    6400072: stacks02
+    6400074: steps02
+    6400076: trim02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
